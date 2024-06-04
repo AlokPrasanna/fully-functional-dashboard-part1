@@ -38,7 +38,7 @@ function App() {
               <Route path="/line" element={<Line />} />
               <Route path="/geo" element={<Geo />} />
               <Route path="/fqa" element={<FQA />} />
-              <Route path="/calander" element={<Calander />} />
+              <Route path="/calendar" element={<Calander />} />
             </Routes>
           </main>
         </div>

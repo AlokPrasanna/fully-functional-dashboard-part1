@@ -1,8 +1,14 @@
+import { BarChart , Header } from "../../components/molecules";
+import { Box } from "@mui/material";
+
 const Bar = () => {
     return (
-        <div>
-         Bar
-        </div>
+        <Box m="20px">
+            <Header title="Bar Chart" subtitle="Simple Bar Chart" />
+            <Box height="75vh">
+                <BarChart />
+            </Box>
+        </Box>
     )
 }
 

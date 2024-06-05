@@ -5,6 +5,7 @@ import Header from "./Header";
 import BarChart from "./BarChart";
 import PieChart from "./PieChart";
 import LineChart from "./LineChart";
+import GeoChart from "./GeoChart";
 
 // -------------------- Exports --------------------
 export {
@@ -13,5 +14,6 @@ export {
     Header,
     BarChart,
     PieChart,
-    LineChart
+    LineChart,
+    GeoChart
 }

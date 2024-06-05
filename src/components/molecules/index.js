@@ -4,6 +4,7 @@ import Topbar from "./TopBar";
 import Header from "./Header";
 import BarChart from "./BarChart";
 import PieChart from "./PieChart";
+import LineChart from "./LineChart";
 
 // -------------------- Exports --------------------
 export {
@@ -11,5 +12,6 @@ export {
     Topbar,
     Header,
     BarChart,
-    PieChart
+    PieChart,
+    LineChart
 }

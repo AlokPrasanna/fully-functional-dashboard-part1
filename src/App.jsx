@@ -6,7 +6,7 @@ import {
   Bar,
   Contacts,
   Form,
-  FQA,
+  FAQ,
   Geo,
   Invoices,
   Line,
@@ -37,7 +37,7 @@ function App() {
               <Route path="/pie" element={<Pie />} />
               <Route path="/line" element={<Line />} />
               <Route path="/geo" element={<Geo />} />
-              <Route path="/fqa" element={<FQA />} />
+              <Route path="/faq" element={<FAQ />} />
               <Route path="/calendar" element={<Calander />} />
             </Routes>
           </main>

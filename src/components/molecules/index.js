@@ -6,6 +6,7 @@ import BarChart from "./BarChart";
 import PieChart from "./PieChart";
 import LineChart from "./LineChart";
 import GeoChart from "./GeoChart";
+import ProgressCircle from "./ProgressCircle";
 
 // -------------------- Exports --------------------
 export {
@@ -15,5 +16,6 @@ export {
     BarChart,
     PieChart,
     LineChart,
-    GeoChart
+    GeoChart,
+    ProgressCircle
 }

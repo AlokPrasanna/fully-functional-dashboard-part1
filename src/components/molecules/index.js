@@ -7,6 +7,7 @@ import PieChart from "./PieChart";
 import LineChart from "./LineChart";
 import GeoChart from "./GeoChart";
 import ProgressCircle from "./ProgressCircle";
+import StateBox from "./StateBox";
 
 // -------------------- Exports --------------------
 export {
@@ -17,5 +18,6 @@ export {
     PieChart,
     LineChart,
     GeoChart,
-    ProgressCircle
+    ProgressCircle,
+    StateBox
 }
